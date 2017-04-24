@@ -1,5 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
 }
 
 .header-001 {
@@ -35,7 +36,7 @@ body {
 
 .menu-001 .navbar-header {
     font-size: 28px;
-    font-family: "Myriad Pro";
+    font-family: "Myriad Pro", sans-serif;
     color: rgb(255, 255, 255);
     line-height: 60px;
 }
@@ -88,11 +89,12 @@ body {
     background-image: -moz-linear-gradient( 90deg, rgb(13,71,161) 0%, rgb(25,118,210) 100%);
     background-image: -webkit-linear-gradient( 90deg, rgb(13,71,161) 0%, rgb(25,118,210) 100%);
     background-image: -ms-linear-gradient( 90deg, rgb(13,71,161) 0%, rgb(25,118,210) 100%);
-    box-shadow: 0px 1px 1px 0px rgba(3, 3, 3, 0.45);
+    box-shadow: 0 1px 1px 0 rgba(3, 3, 3, 0.45);
     height: 44px;
     border: 0;
     font-size: 16px;
     margin-top: 10px;
+    margin-bottom: 30px;
 }
 
 .gallery-001 .carousel-wrapper {
