@@ -179,15 +179,15 @@ body {
 @media (max-width: 767px) {
     .header-001 .phone {
         float: none;
-        width: 375px;
+        width: 320px;
         margin: 0 auto;
     }
     .menu-001 .container {
-        width: 375px;
+        width: 320px;
         margin: 0 auto;
     }
     .gallery-001 .container {
-        width: 375px;
+        width: 320px;
         margin: 0 auto;
     }
     .gallery-001 .carousel-control {
